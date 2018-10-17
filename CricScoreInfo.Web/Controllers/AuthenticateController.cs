@@ -7,7 +7,7 @@ namespace CricScoreInfo.Web.Controllers
   {
     public ViewResult Index(AuthenticateViewModel model)
     {
-      return View(model);fsaefwef
+      return View(model);
     }
   }
 }
