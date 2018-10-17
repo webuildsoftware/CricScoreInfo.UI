@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing.CricScoreInfo.UI", "Testing.CricScoreInfo.UI\Testing.CricScoreInfo.UI.csproj", "{2A977A5F-ED60-47F0-85B6-74E3FEC16660}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CricScoreInfo.Web", "CricScoreInfo.Web\CricScoreInfo.Web.csproj", "{995554C6-4E04-478D-ACE5-3E353A6C5846}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A977A5F-ED60-47F0-85B6-74E3FEC16660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A977A5F-ED60-47F0-85B6-74E3FEC16660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A977A5F-ED60-47F0-85B6-74E3FEC16660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A977A5F-ED60-47F0-85B6-74E3FEC16660}.Release|Any CPU.Build.0 = Release|Any CPU
+		{995554C6-4E04-478D-ACE5-3E353A6C5846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{995554C6-4E04-478D-ACE5-3E353A6C5846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{995554C6-4E04-478D-ACE5-3E353A6C5846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{995554C6-4E04-478D-ACE5-3E353A6C5846}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A13843C-8957-4CA6-A556-50879D7C1985}
+	EndGlobalSection
+EndGlobal
